@@ -13,7 +13,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 wincap = WindowCapture('Plants vs. Zombies')
 
 normalZombieDetection = Detection('regZombie.jpg')
-sunDetection = Detection('sun.jpg')
+
 
 isClickingZombie = False
 
