@@ -8,7 +8,7 @@ This is a small project made to detect zombies on screen and hit them.
   
 ## Video Showcase
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=0r7E038mZ7k&ab_channel=UrjitSharma" target='_blank'><img src="https://img.youtube.com/vi/0r7E038mZ7k/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=0r7E038mZ7k&ab_channel=UrjitSharma" target="_blank"><img src="https://img.youtube.com/vi/0r7E038mZ7k/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
   
 ## Installation
